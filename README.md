@@ -55,8 +55,8 @@ We release 3k+ evaluation dataset which follow our task tree classification syst
 If you find the task tree, dataset in our project useful, please consider citing our work as follows:   
 ```
 @article{TencentLLMEval,
-      title={TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities}, 
-      author={Shuyi Xie, Wenlin Yao, Yong Dai, Shaobo Wang, Zhichao Hu, Jing Nie and Yuhong Liu etc..},
+      title={TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs}, 
+      author={Shuyi Xie, Wenlin Yao, Yong Dai, Shaobo Wang, etc..},
       journal={arXiv preprint arXiv},
       url={https://arxiv.org/abs/2311.05374},
       year={2023}
