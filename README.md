@@ -21,7 +21,7 @@ Our paper is [here](https://arxiv.org/abs/2311.05374).
 Following picture presents our task tree and its corresponding capabilities. Currently, we have 7 major areas, 200+ tasks, 
 and 800+ sub-tasks.
 
-![alt text](pic/task_tree.png)
+![alt text](pic/ability_layers.pdf)
 
 ## 评测指引 (Evaluation Instruction)
 评测方法分为AB对比与单模型打分两种，我们提出以下7条评分标准，优先级依次降低：  
@@ -56,7 +56,7 @@ If you find the task tree, dataset in our project useful, please consider citing
 ```
 @article{TencentLLMEval,
       title={TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs}, 
-      author={Shuyi Xie, Wenlin Yao, Yong Dai, Shaobo Wang, etc..},
+      author={Shuyi Xie and Wenlin Yao and Yong Dai and Shaobo Wang and Donlin Zhou and Lifeng Jin and Xinhua Feng and Pengzhi Wei and Yujie Lin and Zhichao Hu and Dong Yu and Zhengyou Zhang and Jing Nie and Yuhong Liu},
       journal={arXiv preprint arXiv},
       url={https://arxiv.org/abs/2311.05374},
       year={2023}
