@@ -1,9 +1,11 @@
 # 腾讯大模型人工评测基准 (TencentLLMEval)
 
 TencentLLMEval是一个综合全面的大模型人工评测基准，包含评测任务树，评测标准，样本校验方法等。
-评测任务包含NLP基础，文本生成，对话，推理，专业领域，安全，插件7大分类。我们公开除插件外的一二级任务分类，并开放3000评测数据集。  
+评测任务包含NLP基础，文本生成，对话，推理，专业领域，安全，插件7大分类。我们公开除插件外的一二级任务分类，并开放3000评测数据集。
+详细信息请参考[论文](https://arxiv.org/abs/2311.05374)  
 
-TencentLLMEval is a comprehensive and extensive benchmark for artificial evaluation of large models that includes task trees, standards, data verification methods, and more. The evaluation tasks encompass seven major areas: NLP basics, text generation, dialogue, reasoning, domain expert, safety, and plugins. We have publicly released our task tree, which excludes plugins, along with an evaluation dataset of over 3,000 samples.
+TencentLLMEval is a comprehensive and extensive benchmark for artificial evaluation of large models that includes task trees, standards, data verification methods, and more. The evaluation tasks encompass seven major areas: NLP basics, text generation, dialogue, reasoning, domain expert, safety, and plugins. We have publicly released our task tree, which excludes plugins, along with an evaluation dataset of over 3,000 samples.  
+Our paper is [here](https://arxiv.org/abs/2311.05374).
 
 ## TODOs
 - [ ] 数据集审核中，即将开放
@@ -56,7 +58,7 @@ If you find the task tree, dataset in our project useful, please consider citing
       title={TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities}, 
       author={Shuyi Xie, Wenlin Yao, Yong Dai, Shaobo Wang, Zhichao Hu, Jing Nie and Yuhong Liu etc..},
       journal={arXiv preprint arXiv},
-      url={https://arxiv.org/abs/......},
+      url={https://arxiv.org/abs/2311.05374},
       year={2023}
 }
 ```
