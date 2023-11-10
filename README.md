@@ -21,7 +21,7 @@ Our paper is [here](https://arxiv.org/abs/2311.05374).
 Following picture presents our task tree and its corresponding capabilities. Currently, we have 7 major areas, 200+ tasks, 
 and 800+ sub-tasks.
 
-![alt text](pic/ability_layers.pdf)
+![alt text](pic/ability_layers.png)
 
 ## 评测指引 (Evaluation Instruction)
 评测方法分为AB对比与单模型打分两种，我们提出以下7条评分标准，优先级依次降低：  
