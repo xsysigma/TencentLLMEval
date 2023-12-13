@@ -8,11 +8,11 @@ TencentLLMEval is a comprehensive and extensive benchmark for artificial evaluat
 Our paper is [here](https://arxiv.org/abs/2311.05374).
 
 ## TODOs
-- [ ] 数据集审核中，即将开放
+- [ ] 中文数据集已发布，英文数据集审核中，即将开放
 - [ ] 开放一键自动测试
 - [ ] 多模态支持
 
-- [ ] dataset is under review, coming soon
+- [ ] English dataset is under review, coming soon
 - [ ] release codes for automatic evaluation
 - [ ] support multi-modal evaluation
 
