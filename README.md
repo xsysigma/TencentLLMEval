@@ -56,7 +56,7 @@ If you find the task tree, dataset in our project useful, please consider citing
 ```
 @article{TencentLLMEval,
       title={TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs}, 
-      author={Shuyi Xie and Wenlin Yao and Yong Dai and Shaobo Wang and Donlin Zhou and Lifeng Jin and Xinhua Feng and Pengzhi Wei and Yujie Lin and Zhichao Hu and Dong Yu and Zhengyou Zhang and Jing Nie and Yuhong Liu},
+      author={Shuyi Xie and Wenlin Yao and Yong Dai and Shaobo Wang and Zishan Xu and Fan Lin and Donlin Zhou and Lifeng Jin and Xinhua Feng and Pengzhi Wei and Yujie Lin and Zhichao Hu and Dong Yu and Zhengyou Zhang and Jing Nie and Yuhong Liu},
       journal={arXiv preprint arXiv},
       url={https://arxiv.org/abs/2311.05374},
       year={2023}
